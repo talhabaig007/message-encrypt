@@ -81,6 +81,6 @@ Contact Information:
 - Facebook: [Facebook](https://www.facebook.com/p/Talha-Baig-100063795712836/)
 
 ### License
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT [License](MIT).
 
 
