@@ -58,8 +58,8 @@ If you don’t have a **requirements.txt** file, it means there are no additiona
 - Enter the password for decryption.
 - Click the Decrypt button.
 - The original message will be shown if the correct password is provided.
-**Reset**: You can reset the fields by clicking the **Reset** button to clear the text boxes.
-**Change Password**: If you want to change the encryption password, click on **Change Password**, and follow the instructions provided.
+- **Reset**: You can reset the fields by clicking the **Reset** button to clear the text boxes.
+- **Change Password**: If you want to change the encryption password, click on **Change Password**, and follow the instructions provided.
 
 ### Error Handling
 The tool comes with basic error handling:
@@ -76,9 +76,9 @@ Ethical Hacker, Cybersecurity Expert, Developer
 
 Contact Information:
 
-- GitHub: https://github.com/talhabaig007
+- GitHub: [Github](https://github.com/talhabaig007/)
 - Email: baig78@hackermail.com
-- Facebook: [Your Facebook Profile Link](https://www.facebook.com/p/Talha-Baig-100063795712836/)
+- Facebook: [Facebook](https://www.facebook.com/p/Talha-Baig-100063795712836/)
 
 ### License
 This project is open source and available under the MIT License.
