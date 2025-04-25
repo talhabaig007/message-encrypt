@@ -2,6 +2,12 @@
 
 This Python-based **Message Encrypt and Decrypt Tool** allows users to securely encrypt and decrypt messages using Base64 encoding, with password protection. It is designed to be simple, user-friendly, and secure, using a **Tkinter** GUI to facilitate interaction.
 
+## 📸 Screenshot
+
+![Dashboard](message.png)
+
+---
+
 ## Features
 
 - **Message Encryption**: Securely encrypt messages using a custom password. The message is encoded using Base64.
